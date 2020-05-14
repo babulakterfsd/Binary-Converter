@@ -121,7 +121,7 @@ textarea {
    }
 
 .custom-container {
-    background-image: url('../images/bestheel.jpg');
+    background-color: #3b5;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
